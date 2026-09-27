@@ -1,0 +1,901 @@
+ticket_id,ticket_text,category,priority
+1,"I was charged twice for my subscription this month, please refund me please help thanks",Billing,Medium
+2,I am getting a 500 error when I try to login to the dashboard annoying,Technical Issue,Medium
+3,Just wanted to know what plans you offer for students thanks,General Query,Low
+4,Server keeps timing out when i upload large files annoying thanks,Technical Issue,Medium
+5,Is there a mobile app available for android users please advise,General Query,Low
+6,I want to cancel my subscription and get a refund waiting since 2 days please advise,Billing,Medium
+7,The website is completely down and showing a blank page please advise,Technical Issue,Low
+8,My invoice amount does not match what I was quoted cannot work please advise,Billing,High
+9,I forgot my password and the reset link is not working this has been going on for a while,Account,Low
+10,I need a copy of my last 3 invoices for tax purposes critical,Billing,High
+11,"someone else might have access to my account, please help asap",Account,High
+12,Getting error code 403 forbidden when accessing my project thanks,Technical Issue,Low
+13,I need a copy of my last 3 invoices for tax purposes cannot work thanks,Billing,High
+14,please delete my account and all my personal data critical,Account,High
+15,billing cycle date is wrong on my account annoying,Billing,Medium
+16,Video upload is stuck at 99 percent since yesterday waiting since 2 days,Technical Issue,Medium
+17,Data is not syncing between mobile app and web app,Technical Issue,Low
+18,The app keeps crashing every time I try to open it regards,Technical Issue,Low
+19,I cannot access my account after changing my email cannot work thanks,Account,High
+20,Where can I find your terms of service document,General Query,Medium
+21,What are your customer support working hours thanks,General Query,Low
+22,"someone else might have access to my account, please help this has been going on for a while",Account,Medium
+23,How do I upgrade from the free plan to premium thanks,General Query,Low
+24,Do you have an API for third party integration,General Query,Low
+25,Video upload is stuck at 99 percent since yesterday regards,Technical Issue,Low
+26,I need a copy of my last 3 invoices for tax purposes production is down this has been going on for a while,Billing,High
+27,unable to verify my account with the otp sent,Account,Low
+28,asking for a discount code that isnt working at checkout,Billing,Low
+29,I cannot access my account after changing my email thanks,Account,Medium
+30,Just wanted to know what plans you offer for students,General Query,Medium
+31,unable to verify my account with the otp sent this has been going on for a while,Account,Low
+32,Payment failed but the amount was still deducted from my account this has been going on for a while,Billing,Low
+33,Video upload is stuck at 99 percent since yesterday immediately this has been going on for a while,Technical Issue,High
+34,billing cycle date is wrong on my account urgent,Billing,High
+35,two factor authentication code never arrives on my phone right now this has been going on for a while,Account,High
+36,My invoice amount does not match what I was quoted soon as possible this has been going on for a while,Billing,Medium
+37,Video upload is stuck at 99 percent since yesterday annoying thanks,Technical Issue,Medium
+38,unable to verify my account with the otp sent regards,Account,Low
+39,Server keeps timing out when i upload large files,Technical Issue,Low
+40,Getting error code 403 forbidden when accessing my project cannot work regards,Technical Issue,High
+41,Do you have an API for third party integration,General Query,Low
+42,I forgot my password and the reset link is not working thanks,Account,Medium
+43,The app keeps crashing every time I try to open it urgent thanks,Technical Issue,High
+44,"I was charged twice for my subscription this month, please refund me",Billing,Low
+45,Getting error code 403 forbidden when accessing my project please help this has been going on for a while,Technical Issue,Medium
+46,app crashed and i lost all my unsaved work please help regards,Technical Issue,Medium
+47,Is there a mobile app available for android users,General Query,Low
+48,How do I upgrade from the free plan to premium regards,General Query,Low
+49,My invoice amount does not match what I was quoted cannot work,Billing,High
+50,The website is completely down and showing a blank page production is down thanks,Technical Issue,High
+51,What are your customer support working hours thanks,General Query,Low
+52,Auto renewal charged me even after I cancelled the plan this has been going on for a while,Billing,Low
+53,"I was charged twice for my subscription this month, please refund me annoying",Billing,Medium
+54,There is a wrong charge on my credit card from your company production is down regards,Billing,High
+55,Login page keeps loading forever and never opens thanks,Technical Issue,Low
+56,Just wanted to know what plans you offer for students please advise,General Query,Medium
+57,Can I get a demo of the enterprise plan,General Query,Low
+58,What are your customer support working hours thanks,General Query,Low
+59,billing cycle date is wrong on my account soon as possible,Billing,Medium
+60,I forgot my password and the reset link is not working production is down this has been going on for a while,Account,High
+61,The app keeps crashing every time I try to open it,Technical Issue,Low
+62,I am getting a 500 error when I try to login to the dashboard please help regards,Technical Issue,Medium
+63,billing cycle date is wrong on my account urgent this has been going on for a while,Billing,High
+64,I need a copy of my last 3 invoices for tax purposes annoying this has been going on for a while,Billing,Medium
+65,two factor authentication code never arrives on my phone cannot work thanks,Account,High
+66,I want to merge two accounts into one critical regards,Account,High
+67,I cannot access my account after changing my email asap,Account,High
+68,Server keeps timing out when i upload large files cannot work,Technical Issue,High
+69,Data is not syncing between mobile app and web app production is down this has been going on for a while,Technical Issue,High
+70,"someone else might have access to my account, please help",Account,Low
+71,asking for a discount code that isnt working at checkout asap thanks,Billing,High
+72,I cannot access my account after changing my email,Account,Low
+73,Getting error code 403 forbidden when accessing my project right now,Technical Issue,High
+74,I need to change the email address linked to my account please advise,Account,Low
+75,Can I get a demo of the enterprise plan,General Query,Medium
+76,I need a copy of my last 3 invoices for tax purposes,Billing,Low
+77,Can you explain why my bill increased this month,Billing,Low
+78,My account got suspended without any warning email this has been going on for a while,Account,Low
+79,just checking if there is a referral program,General Query,Low
+80,Server keeps timing out when i upload large files cannot work this has been going on for a while,Technical Issue,High
+81,Login page keeps loading forever and never opens critical please advise,Technical Issue,High
+82,Can you explain why my bill increased this month right now,Billing,High
+83,Can you explain why my bill increased this month regards,Billing,Low
+84,The website is completely down and showing a blank page thanks,Technical Issue,Low
+85,Just wanted to know what plans you offer for students please advise,General Query,Low
+86,Is there a mobile app available for android users,General Query,Low
+87,I need a copy of my last 3 invoices for tax purposes regards,Billing,Low
+88,The website is completely down and showing a blank page regards,Technical Issue,Low
+89,two factor authentication code never arrives on my phone thanks,Account,Low
+90,The app keeps crashing every time I try to open it still not fixed please advise,Technical Issue,Medium
+91,I cannot access my account after changing my email please advise,Account,Low
+92,unable to verify my account with the otp sent this has been going on for a while,Account,Medium
+93,I forgot my password and the reset link is not working critical thanks,Account,High
+94,I forgot my password and the reset link is not working losing money please advise,Account,High
+95,I want to merge two accounts into one this has been going on for a while,Account,Medium
+96,I need a copy of my last 3 invoices for tax purposes thanks,Billing,Low
+97,I forgot my password and the reset link is not working,Account,Low
+98,Data is not syncing between mobile app and web app waiting since 2 days this has been going on for a while,Technical Issue,Medium
+99,I cannot access my account after changing my email please advise,Account,Low
+100,I want to merge two accounts into one,Account,Medium
+101,unable to verify my account with the otp sent losing money,Account,High
+102,What are your customer support working hours please advise,General Query,Low
+103,just checking if there is a referral program please advise,General Query,Low
+104,I need to change the email address linked to my account this has been going on for a while,Account,Medium
+105,my profile picture and username reset on their own,Account,Medium
+106,Server keeps timing out when i upload large files please help,Technical Issue,Medium
+107,Payment failed but the amount was still deducted from my account annoying please advise,Billing,Medium
+108,There is a wrong charge on my credit card from your company please help thanks,Billing,Medium
+109,The app keeps crashing every time I try to open it production is down this has been going on for a while,Technical Issue,High
+110,Auto renewal charged me even after I cancelled the plan annoying thanks,Billing,Medium
+111,Do you offer bulk pricing for teams larger than 50 people thanks,General Query,Low
+112,My invoice amount does not match what I was quoted thanks,Billing,Low
+113,Server keeps timing out when i upload large files annoying thanks,Technical Issue,Medium
+114,Auto renewal charged me even after I cancelled the plan production is down,Billing,High
+115,my profile picture and username reset on their own,Account,Medium
+116,just checking if there is a referral program thanks,General Query,Low
+117,Do you offer bulk pricing for teams larger than 50 people thanks,General Query,Low
+118,unable to verify my account with the otp sent thanks,Account,Medium
+119,my profile picture and username reset on their own critical thanks,Account,High
+120,please delete my account and all my personal data this has been going on for a while,Account,Medium
+121,I want to cancel my subscription and get a refund losing money,Billing,High
+122,The website is completely down and showing a blank page losing money please advise,Technical Issue,High
+123,Where can I find your terms of service document regards,General Query,Low
+124,"loved the new update, when is the next feature release",General Query,Medium
+125,Do you offer bulk pricing for teams larger than 50 people please advise,General Query,Low
+126,I want to merge two accounts into one regards,Account,Low
+127,The export to pdf feature is broken and generates empty files losing money regards,Technical Issue,High
+128,I need a copy of my last 3 invoices for tax purposes losing money,Billing,High
+129,The export to pdf feature is broken and generates empty files this has been going on for a while,Technical Issue,Low
+130,I need a copy of my last 3 invoices for tax purposes soon as possible,Billing,Medium
+131,What are your customer support working hours thanks,General Query,Medium
+132,Payment failed but the amount was still deducted from my account right now regards,Billing,High
+133,please delete my account and all my personal data regards,Account,Low
+134,I want to merge two accounts into one,Account,Medium
+135,Just wanted to know what plans you offer for students,General Query,Low
+136,I need to change the email address linked to my account,Account,Low
+137,"I was charged twice for my subscription this month, please refund me thanks",Billing,Low
+138,billing cycle date is wrong on my account immediately regards,Billing,High
+139,billing cycle date is wrong on my account regards,Billing,Low
+140,please delete my account and all my personal data asap thanks,Account,High
+141,I cannot access my account after changing my email please advise,Account,Medium
+142,Where can I find your terms of service document thanks,General Query,Medium
+143,billing cycle date is wrong on my account please help,Billing,Medium
+144,"someone else might have access to my account, please help this has been going on for a while",Account,Low
+145,Can you explain why my bill increased this month waiting since 2 days,Billing,Medium
+146,I forgot my password and the reset link is not working regards,Account,Low
+147,I need a copy of my last 3 invoices for tax purposes,Billing,Low
+148,What are your customer support working hours,General Query,Low
+149,"someone else might have access to my account, please help this has been going on for a while",Account,Low
+150,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+151,please delete my account and all my personal data,Account,Low
+152,my profile picture and username reset on their own production is down this has been going on for a while,Account,High
+153,How do I upgrade from the free plan to premium please advise,General Query,Low
+154,The export to pdf feature is broken and generates empty files critical please advise,Technical Issue,High
+155,"someone else might have access to my account, please help please advise",Account,Low
+156,asking for a discount code that isnt working at checkout,Billing,Low
+157,Login page keeps loading forever and never opens please help,Technical Issue,Medium
+158,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+159,Payment failed but the amount was still deducted from my account right now please advise,Billing,High
+160,my profile picture and username reset on their own please advise,Account,Medium
+161,just checking if there is a referral program,General Query,Low
+162,Can I get a demo of the enterprise plan thanks,General Query,Low
+163,There is a wrong charge on my credit card from your company emergency,Billing,High
+164,The website is completely down and showing a blank page production is down please advise,Technical Issue,High
+165,I cannot access my account after changing my email please advise,Account,Low
+166,Data is not syncing between mobile app and web app urgent,Technical Issue,High
+167,Getting error code 403 forbidden when accessing my project urgent this has been going on for a while,Technical Issue,High
+168,My account got suspended without any warning email regards,Account,Medium
+169,"I was charged twice for my subscription this month, please refund me still not fixed regards",Billing,Medium
+170,How do I upgrade from the free plan to premium,General Query,Low
+171,my profile picture and username reset on their own asap regards,Account,High
+172,Do you have an API for third party integration,General Query,Low
+173,I want to cancel my subscription and get a refund critical,Billing,High
+174,I am getting a 500 error when I try to login to the dashboard still not fixed this has been going on for a while,Technical Issue,Medium
+175,Server keeps timing out when i upload large files production is down please advise,Technical Issue,High
+176,Can I get a demo of the enterprise plan,General Query,Low
+177,There is a wrong charge on my credit card from your company waiting since 2 days,Billing,Medium
+178,I want to cancel my subscription and get a refund emergency,Billing,High
+179,The app keeps crashing every time I try to open it annoying regards,Technical Issue,Medium
+180,I forgot my password and the reset link is not working critical,Account,High
+181,Do you have an API for third party integration please advise,General Query,Low
+182,Login page keeps loading forever and never opens right now,Technical Issue,High
+183,Getting error code 403 forbidden when accessing my project,Technical Issue,Low
+184,I want to cancel my subscription and get a refund this has been going on for a while,Billing,Low
+185,my profile picture and username reset on their own critical,Account,High
+186,Can I get a demo of the enterprise plan regards,General Query,Low
+187,Do you have an API for third party integration regards,General Query,Low
+188,"someone else might have access to my account, please help",Account,Medium
+189,app crashed and i lost all my unsaved work soon as possible,Technical Issue,Medium
+190,"someone else might have access to my account, please help immediately regards",Account,High
+191,Can I get a demo of the enterprise plan this has been going on for a while,General Query,Low
+192,Do you offer bulk pricing for teams larger than 50 people regards,General Query,Medium
+193,I want to merge two accounts into one,Account,Medium
+194,I want to cancel my subscription and get a refund production is down please advise,Billing,High
+195,just checking if there is a referral program,General Query,Low
+196,two factor authentication code never arrives on my phone regards,Account,Medium
+197,asking for a discount code that isnt working at checkout soon as possible thanks,Billing,Medium
+198,"someone else might have access to my account, please help",Account,Low
+199,Just wanted to know what plans you offer for students this has been going on for a while,General Query,Low
+200,Getting error code 403 forbidden when accessing my project still not fixed,Technical Issue,Medium
+201,billing cycle date is wrong on my account,Billing,Low
+202,Getting error code 403 forbidden when accessing my project annoying regards,Technical Issue,Medium
+203,There is a wrong charge on my credit card from your company,Billing,Low
+204,Do you have an API for third party integration thanks,General Query,Low
+205,Can I get a demo of the enterprise plan please advise,General Query,Low
+206,Do you offer bulk pricing for teams larger than 50 people thanks,General Query,Medium
+207,just checking if there is a referral program thanks,General Query,Low
+208,I am getting a 500 error when I try to login to the dashboard losing money please advise,Technical Issue,High
+209,I forgot my password and the reset link is not working please advise,Account,Medium
+210,What are your customer support working hours regards,General Query,Low
+211,please delete my account and all my personal data this has been going on for a while,Account,Medium
+212,Do you offer bulk pricing for teams larger than 50 people thanks,General Query,Medium
+213,app crashed and i lost all my unsaved work losing money,Technical Issue,High
+214,my profile picture and username reset on their own regards,Account,Low
+215,What are your customer support working hours,General Query,Low
+216,Server keeps timing out when i upload large files please advise,Technical Issue,Low
+217,Auto renewal charged me even after I cancelled the plan production is down,Billing,High
+218,Login page keeps loading forever and never opens thanks,Technical Issue,Low
+219,Auto renewal charged me even after I cancelled the plan please advise,Billing,Low
+220,"someone else might have access to my account, please help",Account,Low
+221,Can you explain why my bill increased this month this has been going on for a while,Billing,Low
+222,How do I upgrade from the free plan to premium regards,General Query,Low
+223,billing cycle date is wrong on my account critical thanks,Billing,High
+224,I need a copy of my last 3 invoices for tax purposes,Billing,Low
+225,Auto renewal charged me even after I cancelled the plan critical,Billing,High
+226,Can you explain why my bill increased this month please advise,Billing,Low
+227,please delete my account and all my personal data thanks,Account,Medium
+228,"loved the new update, when is the next feature release thanks",General Query,Low
+229,Video upload is stuck at 99 percent since yesterday losing money this has been going on for a while,Technical Issue,High
+230,The export to pdf feature is broken and generates empty files thanks,Technical Issue,Low
+231,The export to pdf feature is broken and generates empty files still not fixed please advise,Technical Issue,Medium
+232,Auto renewal charged me even after I cancelled the plan,Billing,Low
+233,I am getting a 500 error when I try to login to the dashboard waiting since 2 days this has been going on for a while,Technical Issue,Medium
+234,I want to merge two accounts into one regards,Account,Low
+235,I need to change the email address linked to my account regards,Account,Low
+236,There is a wrong charge on my credit card from your company cannot work this has been going on for a while,Billing,High
+237,two factor authentication code never arrives on my phone losing money please advise,Account,High
+238,billing cycle date is wrong on my account,Billing,Low
+239,billing cycle date is wrong on my account waiting since 2 days thanks,Billing,Medium
+240,I need to change the email address linked to my account this has been going on for a while,Account,Medium
+241,My account got suspended without any warning email,Account,Medium
+242,Payment failed but the amount was still deducted from my account,Billing,Low
+243,My account got suspended without any warning email critical please advise,Account,High
+244,What are your customer support working hours this has been going on for a while,General Query,Low
+245,unable to verify my account with the otp sent please advise,Account,Medium
+246,Getting error code 403 forbidden when accessing my project regards,Technical Issue,Low
+247,please delete my account and all my personal data regards,Account,Low
+248,I want to cancel my subscription and get a refund thanks,Billing,Low
+249,just checking if there is a referral program regards,General Query,Low
+250,Payment failed but the amount was still deducted from my account still not fixed please advise,Billing,Medium
+251,"someone else might have access to my account, please help",Account,Medium
+252,I cannot access my account after changing my email regards,Account,Low
+253,billing cycle date is wrong on my account this has been going on for a while,Billing,Low
+254,"someone else might have access to my account, please help asap",Account,High
+255,Can I get a demo of the enterprise plan,General Query,Low
+256,The app keeps crashing every time I try to open it please advise,Technical Issue,Low
+257,Do you have an API for third party integration this has been going on for a while,General Query,Low
+258,Login page keeps loading forever and never opens annoying regards,Technical Issue,Medium
+259,Login page keeps loading forever and never opens still not fixed this has been going on for a while,Technical Issue,Medium
+260,Can I get a demo of the enterprise plan please advise,General Query,Low
+261,The export to pdf feature is broken and generates empty files please help please advise,Technical Issue,Medium
+262,Can you explain why my bill increased this month waiting since 2 days,Billing,Medium
+263,Can I get a demo of the enterprise plan,General Query,Low
+264,Do you have an API for third party integration,General Query,Low
+265,"I was charged twice for my subscription this month, please refund me thanks",Billing,Low
+266,app crashed and i lost all my unsaved work emergency thanks,Technical Issue,High
+267,The website is completely down and showing a blank page immediately this has been going on for a while,Technical Issue,High
+268,Payment failed but the amount was still deducted from my account thanks,Billing,Low
+269,Server keeps timing out when i upload large files immediately,Technical Issue,High
+270,I want to cancel my subscription and get a refund right now this has been going on for a while,Billing,High
+271,I forgot my password and the reset link is not working urgent thanks,Account,High
+272,just checking if there is a referral program,General Query,Low
+273,Do you offer bulk pricing for teams larger than 50 people this has been going on for a while,General Query,Low
+274,Auto renewal charged me even after I cancelled the plan annoying,Billing,Medium
+275,my profile picture and username reset on their own,Account,Medium
+276,Auto renewal charged me even after I cancelled the plan regards,Billing,Low
+277,Auto renewal charged me even after I cancelled the plan still not fixed,Billing,Medium
+278,Can you explain why my bill increased this month soon as possible thanks,Billing,Medium
+279,"someone else might have access to my account, please help this has been going on for a while",Account,Medium
+280,I want to merge two accounts into one this has been going on for a while,Account,Low
+281,my profile picture and username reset on their own regards,Account,Medium
+282,My invoice amount does not match what I was quoted,Billing,Low
+283,Login page keeps loading forever and never opens please help regards,Technical Issue,Medium
+284,my profile picture and username reset on their own,Account,Medium
+285,Can you explain why my bill increased this month waiting since 2 days please advise,Billing,Medium
+286,The export to pdf feature is broken and generates empty files asap,Technical Issue,High
+287,Do you have an API for third party integration please advise,General Query,Low
+288,Server keeps timing out when i upload large files emergency this has been going on for a while,Technical Issue,High
+289,I cannot access my account after changing my email,Account,Medium
+290,Just wanted to know what plans you offer for students this has been going on for a while,General Query,Medium
+291,please delete my account and all my personal data emergency thanks,Account,High
+292,The export to pdf feature is broken and generates empty files asap please advise,Technical Issue,High
+293,I cannot access my account after changing my email this has been going on for a while,Account,Low
+294,Login page keeps loading forever and never opens this has been going on for a while,Technical Issue,Low
+295,billing cycle date is wrong on my account,Billing,Low
+296,I forgot my password and the reset link is not working critical please advise,Account,High
+297,I forgot my password and the reset link is not working immediately this has been going on for a while,Account,High
+298,Do you have an API for third party integration,General Query,Low
+299,My invoice amount does not match what I was quoted please help regards,Billing,Medium
+300,Do you offer bulk pricing for teams larger than 50 people please advise,General Query,Low
+301,please delete my account and all my personal data this has been going on for a while,Account,Low
+302,"I was charged twice for my subscription this month, please refund me urgent",Billing,High
+303,Payment failed but the amount was still deducted from my account still not fixed regards,Billing,Medium
+304,Where can I find your terms of service document this has been going on for a while,General Query,Low
+305,Can you explain why my bill increased this month waiting since 2 days,Billing,Medium
+306,just checking if there is a referral program,General Query,Low
+307,Login page keeps loading forever and never opens,Technical Issue,Low
+308,There is a wrong charge on my credit card from your company right now thanks,Billing,High
+309,two factor authentication code never arrives on my phone,Account,Medium
+310,Where can I find your terms of service document regards,General Query,Low
+311,Server keeps timing out when i upload large files waiting since 2 days,Technical Issue,Medium
+312,Just wanted to know what plans you offer for students regards,General Query,Low
+313,Can you explain why my bill increased this month annoying regards,Billing,Medium
+314,Can I get a demo of the enterprise plan,General Query,Low
+315,My account got suspended without any warning email this has been going on for a while,Account,Low
+316,How do I upgrade from the free plan to premium,General Query,Low
+317,Login page keeps loading forever and never opens annoying,Technical Issue,Medium
+318,Can I get a demo of the enterprise plan thanks,General Query,Low
+319,My account got suspended without any warning email asap this has been going on for a while,Account,High
+320,Data is not syncing between mobile app and web app immediately thanks,Technical Issue,High
+321,I want to cancel my subscription and get a refund immediately this has been going on for a while,Billing,High
+322,I am getting a 500 error when I try to login to the dashboard production is down regards,Technical Issue,High
+323,"loved the new update, when is the next feature release this has been going on for a while",General Query,Low
+324,please delete my account and all my personal data asap regards,Account,High
+325,Can I get a demo of the enterprise plan this has been going on for a while,General Query,Low
+326,Can you explain why my bill increased this month waiting since 2 days regards,Billing,Medium
+327,Just wanted to know what plans you offer for students please advise,General Query,Low
+328,My invoice amount does not match what I was quoted annoying regards,Billing,Medium
+329,"loved the new update, when is the next feature release",General Query,Low
+330,Auto renewal charged me even after I cancelled the plan this has been going on for a while,Billing,Low
+331,Data is not syncing between mobile app and web app annoying thanks,Technical Issue,Medium
+332,Auto renewal charged me even after I cancelled the plan cannot work,Billing,High
+333,asking for a discount code that isnt working at checkout soon as possible thanks,Billing,Medium
+334,Do you offer bulk pricing for teams larger than 50 people this has been going on for a while,General Query,Low
+335,Data is not syncing between mobile app and web app critical regards,Technical Issue,High
+336,How do I upgrade from the free plan to premium,General Query,Low
+337,I cannot access my account after changing my email this has been going on for a while,Account,Medium
+338,Can I get a demo of the enterprise plan,General Query,Low
+339,Data is not syncing between mobile app and web app immediately please advise,Technical Issue,High
+340,I want to merge two accounts into one asap please advise,Account,High
+341,How do I upgrade from the free plan to premium,General Query,Low
+342,I need a copy of my last 3 invoices for tax purposes soon as possible please advise,Billing,Medium
+343,My account got suspended without any warning email please advise,Account,Low
+344,Is there a mobile app available for android users thanks,General Query,Low
+345,I am getting a 500 error when I try to login to the dashboard asap this has been going on for a while,Technical Issue,High
+346,Can you explain why my bill increased this month this has been going on for a while,Billing,Low
+347,app crashed and i lost all my unsaved work immediately thanks,Technical Issue,High
+348,The export to pdf feature is broken and generates empty files cannot work,Technical Issue,High
+349,The export to pdf feature is broken and generates empty files still not fixed thanks,Technical Issue,Medium
+350,Getting error code 403 forbidden when accessing my project regards,Technical Issue,Low
+351,Data is not syncing between mobile app and web app annoying regards,Technical Issue,Medium
+352,Can I get a demo of the enterprise plan this has been going on for a while,General Query,Low
+353,What are your customer support working hours this has been going on for a while,General Query,Low
+354,Getting error code 403 forbidden when accessing my project production is down please advise,Technical Issue,High
+355,asking for a discount code that isnt working at checkout please advise,Billing,Low
+356,I want to cancel my subscription and get a refund emergency thanks,Billing,High
+357,Do you have an API for third party integration thanks,General Query,Medium
+358,How do I upgrade from the free plan to premium regards,General Query,Medium
+359,I need a copy of my last 3 invoices for tax purposes please help regards,Billing,Medium
+360,Can you explain why my bill increased this month cannot work,Billing,High
+361,My account got suspended without any warning email critical regards,Account,High
+362,The export to pdf feature is broken and generates empty files soon as possible,Technical Issue,Medium
+363,Payment failed but the amount was still deducted from my account immediately this has been going on for a while,Billing,High
+364,Do you have an API for third party integration thanks,General Query,Low
+365,I cannot access my account after changing my email losing money,Account,High
+366,Do you have an API for third party integration regards,General Query,Low
+367,asking for a discount code that isnt working at checkout please help please advise,Billing,Medium
+368,Just wanted to know what plans you offer for students thanks,General Query,Low
+369,What are your customer support working hours,General Query,Low
+370,I cannot access my account after changing my email this has been going on for a while,Account,Low
+371,I need a copy of my last 3 invoices for tax purposes,Billing,Low
+372,How do I upgrade from the free plan to premium,General Query,Low
+373,I cannot access my account after changing my email,Account,Medium
+374,billing cycle date is wrong on my account waiting since 2 days thanks,Billing,Medium
+375,Can you explain why my bill increased this month please help,Billing,Medium
+376,Do you offer bulk pricing for teams larger than 50 people thanks,General Query,Low
+377,Auto renewal charged me even after I cancelled the plan right now,Billing,High
+378,The app keeps crashing every time I try to open it critical this has been going on for a while,Technical Issue,High
+379,just checking if there is a referral program,General Query,Low
+380,Getting error code 403 forbidden when accessing my project urgent,Technical Issue,High
+381,two factor authentication code never arrives on my phone cannot work regards,Account,High
+382,Do you offer bulk pricing for teams larger than 50 people regards,General Query,Medium
+383,My account got suspended without any warning email regards,Account,Medium
+384,unable to verify my account with the otp sent,Account,Medium
+385,Do you have an API for third party integration thanks,General Query,Low
+386,please delete my account and all my personal data cannot work,Account,High
+387,two factor authentication code never arrives on my phone,Account,Medium
+388,What are your customer support working hours please advise,General Query,Low
+389,Just wanted to know what plans you offer for students please advise,General Query,Low
+390,Can I get a demo of the enterprise plan,General Query,Low
+391,I need a copy of my last 3 invoices for tax purposes immediately,Billing,High
+392,app crashed and i lost all my unsaved work still not fixed,Technical Issue,Medium
+393,I am getting a 500 error when I try to login to the dashboard cannot work please advise,Technical Issue,High
+394,"loved the new update, when is the next feature release thanks",General Query,Low
+395,How do I upgrade from the free plan to premium,General Query,Low
+396,Server keeps timing out when i upload large files cannot work,Technical Issue,High
+397,I need to change the email address linked to my account,Account,Low
+398,The export to pdf feature is broken and generates empty files annoying,Technical Issue,Medium
+399,two factor authentication code never arrives on my phone thanks,Account,Low
+400,my profile picture and username reset on their own immediately,Account,High
+401,What are your customer support working hours regards,General Query,Medium
+402,Can you explain why my bill increased this month soon as possible this has been going on for a while,Billing,Medium
+403,two factor authentication code never arrives on my phone,Account,Low
+404,Data is not syncing between mobile app and web app soon as possible thanks,Technical Issue,Medium
+405,The website is completely down and showing a blank page,Technical Issue,Low
+406,unable to verify my account with the otp sent regards,Account,Medium
+407,app crashed and i lost all my unsaved work,Technical Issue,Low
+408,I want to merge two accounts into one,Account,Low
+409,just checking if there is a referral program regards,General Query,Low
+410,I want to cancel my subscription and get a refund,Billing,Low
+411,Auto renewal charged me even after I cancelled the plan annoying please advise,Billing,Medium
+412,Server keeps timing out when i upload large files please help thanks,Technical Issue,Medium
+413,just checking if there is a referral program,General Query,Medium
+414,asking for a discount code that isnt working at checkout immediately thanks,Billing,High
+415,I need to change the email address linked to my account this has been going on for a while,Account,Medium
+416,I cannot access my account after changing my email,Account,Medium
+417,My account got suspended without any warning email this has been going on for a while,Account,Medium
+418,asking for a discount code that isnt working at checkout annoying this has been going on for a while,Billing,Medium
+419,Video upload is stuck at 99 percent since yesterday annoying please advise,Technical Issue,Medium
+420,"I was charged twice for my subscription this month, please refund me critical",Billing,High
+421,app crashed and i lost all my unsaved work soon as possible regards,Technical Issue,Medium
+422,two factor authentication code never arrives on my phone,Account,Medium
+423,Can I get a demo of the enterprise plan,General Query,Low
+424,I want to cancel my subscription and get a refund still not fixed regards,Billing,Medium
+425,Data is not syncing between mobile app and web app waiting since 2 days,Technical Issue,Medium
+426,please delete my account and all my personal data thanks,Account,Low
+427,unable to verify my account with the otp sent please advise,Account,Medium
+428,The export to pdf feature is broken and generates empty files production is down thanks,Technical Issue,High
+429,I am getting a 500 error when I try to login to the dashboard losing money this has been going on for a while,Technical Issue,High
+430,Is there a mobile app available for android users thanks,General Query,Medium
+431,"someone else might have access to my account, please help thanks",Account,Low
+432,The export to pdf feature is broken and generates empty files regards,Technical Issue,Low
+433,Can I get a demo of the enterprise plan,General Query,Low
+434,just checking if there is a referral program thanks,General Query,Low
+435,app crashed and i lost all my unsaved work urgent please advise,Technical Issue,High
+436,"loved the new update, when is the next feature release",General Query,Medium
+437,Can I get a demo of the enterprise plan,General Query,Low
+438,What are your customer support working hours,General Query,Medium
+439,I want to merge two accounts into one regards,Account,Medium
+440,billing cycle date is wrong on my account waiting since 2 days this has been going on for a while,Billing,Medium
+441,I cannot access my account after changing my email regards,Account,Medium
+442,"someone else might have access to my account, please help",Account,Low
+443,I am getting a 500 error when I try to login to the dashboard cannot work this has been going on for a while,Technical Issue,High
+444,My account got suspended without any warning email emergency regards,Account,High
+445,"I was charged twice for my subscription this month, please refund me cannot work regards",Billing,High
+446,What are your customer support working hours this has been going on for a while,General Query,Low
+447,Data is not syncing between mobile app and web app please advise,Technical Issue,Low
+448,Login page keeps loading forever and never opens,Technical Issue,Low
+449,"someone else might have access to my account, please help this has been going on for a while",Account,Medium
+450,"loved the new update, when is the next feature release",General Query,Low
+451,please delete my account and all my personal data regards,Account,Low
+452,I forgot my password and the reset link is not working please advise,Account,Medium
+453,The app keeps crashing every time I try to open it please help this has been going on for a while,Technical Issue,Medium
+454,What are your customer support working hours thanks,General Query,Low
+455,billing cycle date is wrong on my account,Billing,Low
+456,The app keeps crashing every time I try to open it still not fixed thanks,Technical Issue,Medium
+457,Is there a mobile app available for android users this has been going on for a while,General Query,Low
+458,Just wanted to know what plans you offer for students this has been going on for a while,General Query,Low
+459,Server keeps timing out when i upload large files production is down this has been going on for a while,Technical Issue,High
+460,How do I upgrade from the free plan to premium regards,General Query,Medium
+461,unable to verify my account with the otp sent,Account,Medium
+462,"someone else might have access to my account, please help thanks",Account,Medium
+463,unable to verify my account with the otp sent please advise,Account,Medium
+464,I need to change the email address linked to my account regards,Account,Low
+465,my profile picture and username reset on their own,Account,Medium
+466,two factor authentication code never arrives on my phone emergency regards,Account,High
+467,How do I upgrade from the free plan to premium thanks,General Query,Medium
+468,I forgot my password and the reset link is not working,Account,Medium
+469,Can you explain why my bill increased this month,Billing,Low
+470,my profile picture and username reset on their own emergency please advise,Account,High
+471,My account got suspended without any warning email right now thanks,Account,High
+472,asking for a discount code that isnt working at checkout right now,Billing,High
+473,I need a copy of my last 3 invoices for tax purposes production is down,Billing,High
+474,The app keeps crashing every time I try to open it thanks,Technical Issue,Low
+475,Do you offer bulk pricing for teams larger than 50 people thanks,General Query,Low
+476,please delete my account and all my personal data,Account,Medium
+477,billing cycle date is wrong on my account urgent thanks,Billing,High
+478,What are your customer support working hours,General Query,Medium
+479,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+480,I forgot my password and the reset link is not working asap please advise,Account,High
+481,my profile picture and username reset on their own this has been going on for a while,Account,Low
+482,What are your customer support working hours regards,General Query,Medium
+483,I need to change the email address linked to my account please advise,Account,Low
+484,The export to pdf feature is broken and generates empty files please help,Technical Issue,Medium
+485,two factor authentication code never arrives on my phone thanks,Account,Medium
+486,app crashed and i lost all my unsaved work regards,Technical Issue,Low
+487,just checking if there is a referral program regards,General Query,Low
+488,I want to cancel my subscription and get a refund regards,Billing,Low
+489,I need to change the email address linked to my account losing money thanks,Account,High
+490,Can I get a demo of the enterprise plan please advise,General Query,Medium
+491,Payment failed but the amount was still deducted from my account please help,Billing,Medium
+492,Auto renewal charged me even after I cancelled the plan losing money,Billing,High
+493,I cannot access my account after changing my email please advise,Account,Medium
+494,"someone else might have access to my account, please help immediately regards",Account,High
+495,The export to pdf feature is broken and generates empty files annoying please advise,Technical Issue,Medium
+496,just checking if there is a referral program this has been going on for a while,General Query,Medium
+497,The website is completely down and showing a blank page annoying,Technical Issue,Medium
+498,just checking if there is a referral program,General Query,Low
+499,"I was charged twice for my subscription this month, please refund me this has been going on for a while",Billing,Low
+500,app crashed and i lost all my unsaved work please help please advise,Technical Issue,Medium
+501,Do you have an API for third party integration,General Query,Low
+502,Do you have an API for third party integration regards,General Query,Medium
+503,Auto renewal charged me even after I cancelled the plan losing money regards,Billing,High
+504,asking for a discount code that isnt working at checkout waiting since 2 days,Billing,Medium
+505,I need a copy of my last 3 invoices for tax purposes urgent,Billing,High
+506,app crashed and i lost all my unsaved work losing money please advise,Technical Issue,High
+507,asking for a discount code that isnt working at checkout,Billing,Low
+508,Just wanted to know what plans you offer for students thanks,General Query,Low
+509,Login page keeps loading forever and never opens losing money regards,Technical Issue,High
+510,Where can I find your terms of service document,General Query,Low
+511,Data is not syncing between mobile app and web app emergency regards,Technical Issue,High
+512,The website is completely down and showing a blank page,Technical Issue,Low
+513,my profile picture and username reset on their own this has been going on for a while,Account,Low
+514,just checking if there is a referral program thanks,General Query,Low
+515,The export to pdf feature is broken and generates empty files critical thanks,Technical Issue,High
+516,"I was charged twice for my subscription this month, please refund me regards",Billing,Low
+517,There is a wrong charge on my credit card from your company asap this has been going on for a while,Billing,High
+518,Auto renewal charged me even after I cancelled the plan soon as possible thanks,Billing,Medium
+519,I need a copy of my last 3 invoices for tax purposes annoying thanks,Billing,Medium
+520,I want to cancel my subscription and get a refund waiting since 2 days thanks,Billing,Medium
+521,"someone else might have access to my account, please help",Account,Medium
+522,I need to change the email address linked to my account thanks,Account,Medium
+523,Login page keeps loading forever and never opens urgent this has been going on for a while,Technical Issue,High
+524,Login page keeps loading forever and never opens soon as possible please advise,Technical Issue,Medium
+525,just checking if there is a referral program regards,General Query,Low
+526,What are your customer support working hours thanks,General Query,Low
+527,Is there a mobile app available for android users please advise,General Query,Low
+528,The export to pdf feature is broken and generates empty files this has been going on for a while,Technical Issue,Low
+529,Where can I find your terms of service document thanks,General Query,Low
+530,Is there a mobile app available for android users please advise,General Query,Low
+531,Auto renewal charged me even after I cancelled the plan,Billing,Low
+532,The app keeps crashing every time I try to open it urgent,Technical Issue,High
+533,app crashed and i lost all my unsaved work annoying thanks,Technical Issue,Medium
+534,Is there a mobile app available for android users please advise,General Query,Medium
+535,I forgot my password and the reset link is not working right now,Account,High
+536,Auto renewal charged me even after I cancelled the plan,Billing,Low
+537,Login page keeps loading forever and never opens this has been going on for a while,Technical Issue,Low
+538,two factor authentication code never arrives on my phone this has been going on for a while,Account,Medium
+539,two factor authentication code never arrives on my phone this has been going on for a while,Account,Medium
+540,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+541,How do I upgrade from the free plan to premium please advise,General Query,Medium
+542,I want to merge two accounts into one right now,Account,High
+543,The app keeps crashing every time I try to open it losing money please advise,Technical Issue,High
+544,The website is completely down and showing a blank page losing money this has been going on for a while,Technical Issue,High
+545,The export to pdf feature is broken and generates empty files waiting since 2 days please advise,Technical Issue,Medium
+546,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+547,My account got suspended without any warning email emergency regards,Account,High
+548,Server keeps timing out when i upload large files,Technical Issue,Low
+549,My invoice amount does not match what I was quoted,Billing,Low
+550,"I was charged twice for my subscription this month, please refund me please help",Billing,Medium
+551,The app keeps crashing every time I try to open it production is down please advise,Technical Issue,High
+552,billing cycle date is wrong on my account annoying regards,Billing,Medium
+553,Just wanted to know what plans you offer for students this has been going on for a while,General Query,Low
+554,Just wanted to know what plans you offer for students,General Query,Low
+555,unable to verify my account with the otp sent,Account,Low
+556,What are your customer support working hours,General Query,Low
+557,The website is completely down and showing a blank page emergency please advise,Technical Issue,High
+558,two factor authentication code never arrives on my phone,Account,Low
+559,I want to merge two accounts into one thanks,Account,Medium
+560,Getting error code 403 forbidden when accessing my project soon as possible,Technical Issue,Medium
+561,My invoice amount does not match what I was quoted still not fixed this has been going on for a while,Billing,Medium
+562,Just wanted to know what plans you offer for students,General Query,Low
+563,I am getting a 500 error when I try to login to the dashboard still not fixed,Technical Issue,Medium
+564,"someone else might have access to my account, please help",Account,Low
+565,There is a wrong charge on my credit card from your company production is down please advise,Billing,High
+566,My invoice amount does not match what I was quoted waiting since 2 days this has been going on for a while,Billing,Medium
+567,I want to cancel my subscription and get a refund please advise,Billing,Low
+568,There is a wrong charge on my credit card from your company still not fixed,Billing,Medium
+569,My account got suspended without any warning email this has been going on for a while,Account,Medium
+570,just checking if there is a referral program,General Query,Low
+571,I am getting a 500 error when I try to login to the dashboard waiting since 2 days,Technical Issue,Medium
+572,I need a copy of my last 3 invoices for tax purposes asap please advise,Billing,High
+573,How do I upgrade from the free plan to premium please advise,General Query,Low
+574,Do you offer bulk pricing for teams larger than 50 people this has been going on for a while,General Query,Low
+575,Where can I find your terms of service document this has been going on for a while,General Query,Low
+576,Do you have an API for third party integration please advise,General Query,Low
+577,I am getting a 500 error when I try to login to the dashboard immediately regards,Technical Issue,High
+578,Login page keeps loading forever and never opens asap,Technical Issue,High
+579,Payment failed but the amount was still deducted from my account waiting since 2 days,Billing,Medium
+580,I am getting a 500 error when I try to login to the dashboard production is down this has been going on for a while,Technical Issue,High
+581,Do you have an API for third party integration please advise,General Query,Low
+582,billing cycle date is wrong on my account waiting since 2 days regards,Billing,Medium
+583,Payment failed but the amount was still deducted from my account soon as possible,Billing,Medium
+584,app crashed and i lost all my unsaved work still not fixed thanks,Technical Issue,Medium
+585,Getting error code 403 forbidden when accessing my project production is down thanks,Technical Issue,High
+586,I want to cancel my subscription and get a refund still not fixed please advise,Billing,Medium
+587,Do you have an API for third party integration thanks,General Query,Low
+588,"loved the new update, when is the next feature release regards",General Query,Low
+589,I want to cancel my subscription and get a refund losing money please advise,Billing,High
+590,How do I upgrade from the free plan to premium regards,General Query,Low
+591,Getting error code 403 forbidden when accessing my project right now regards,Technical Issue,High
+592,My account got suspended without any warning email please advise,Account,Low
+593,my profile picture and username reset on their own thanks,Account,Low
+594,I want to merge two accounts into one regards,Account,Medium
+595,I cannot access my account after changing my email thanks,Account,Low
+596,Server keeps timing out when i upload large files production is down,Technical Issue,High
+597,The export to pdf feature is broken and generates empty files,Technical Issue,Low
+598,I need a copy of my last 3 invoices for tax purposes please help,Billing,Medium
+599,I need to change the email address linked to my account thanks,Account,Medium
+600,Where can I find your terms of service document this has been going on for a while,General Query,Low
+601,"loved the new update, when is the next feature release this has been going on for a while",General Query,Low
+602,just checking if there is a referral program please advise,General Query,Low
+603,My invoice amount does not match what I was quoted,Billing,Low
+604,My account got suspended without any warning email,Account,Medium
+605,How do I upgrade from the free plan to premium regards,General Query,Medium
+606,"I was charged twice for my subscription this month, please refund me right now this has been going on for a while",Billing,High
+607,The export to pdf feature is broken and generates empty files production is down,Technical Issue,High
+608,Data is not syncing between mobile app and web app regards,Technical Issue,Low
+609,Payment failed but the amount was still deducted from my account soon as possible,Billing,Medium
+610,Data is not syncing between mobile app and web app production is down thanks,Technical Issue,High
+611,How do I upgrade from the free plan to premium regards,General Query,Low
+612,How do I upgrade from the free plan to premium,General Query,Low
+613,"I was charged twice for my subscription this month, please refund me",Billing,Low
+614,I want to cancel my subscription and get a refund,Billing,Low
+615,Server keeps timing out when i upload large files immediately please advise,Technical Issue,High
+616,Do you offer bulk pricing for teams larger than 50 people regards,General Query,Low
+617,Video upload is stuck at 99 percent since yesterday still not fixed regards,Technical Issue,Medium
+618,billing cycle date is wrong on my account regards,Billing,Low
+619,Where can I find your terms of service document thanks,General Query,Low
+620,Getting error code 403 forbidden when accessing my project,Technical Issue,Low
+621,asking for a discount code that isnt working at checkout cannot work thanks,Billing,High
+622,Do you have an API for third party integration regards,General Query,Low
+623,"someone else might have access to my account, please help regards",Account,Medium
+624,Can you explain why my bill increased this month production is down this has been going on for a while,Billing,High
+625,Getting error code 403 forbidden when accessing my project this has been going on for a while,Technical Issue,Low
+626,I want to cancel my subscription and get a refund right now please advise,Billing,High
+627,I want to cancel my subscription and get a refund immediately this has been going on for a while,Billing,High
+628,Where can I find your terms of service document this has been going on for a while,General Query,Low
+629,Where can I find your terms of service document,General Query,Low
+630,Server keeps timing out when i upload large files critical thanks,Technical Issue,High
+631,Data is not syncing between mobile app and web app this has been going on for a while,Technical Issue,Low
+632,Can you explain why my bill increased this month regards,Billing,Low
+633,The website is completely down and showing a blank page this has been going on for a while,Technical Issue,Low
+634,Where can I find your terms of service document regards,General Query,Low
+635,Do you offer bulk pricing for teams larger than 50 people this has been going on for a while,General Query,Low
+636,There is a wrong charge on my credit card from your company critical thanks,Billing,High
+637,My account got suspended without any warning email this has been going on for a while,Account,Low
+638,just checking if there is a referral program this has been going on for a while,General Query,Low
+639,Payment failed but the amount was still deducted from my account please advise,Billing,Low
+640,Auto renewal charged me even after I cancelled the plan still not fixed,Billing,Medium
+641,Getting error code 403 forbidden when accessing my project,Technical Issue,Low
+642,Can I get a demo of the enterprise plan,General Query,Low
+643,Do you have an API for third party integration thanks,General Query,Low
+644,app crashed and i lost all my unsaved work annoying,Technical Issue,Medium
+645,What are your customer support working hours thanks,General Query,Low
+646,The app keeps crashing every time I try to open it annoying please advise,Technical Issue,Medium
+647,Data is not syncing between mobile app and web app please advise,Technical Issue,Low
+648,"someone else might have access to my account, please help this has been going on for a while",Account,Medium
+649,I want to cancel my subscription and get a refund regards,Billing,Low
+650,Payment failed but the amount was still deducted from my account thanks,Billing,Low
+651,The website is completely down and showing a blank page cannot work thanks,Technical Issue,High
+652,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+653,I want to merge two accounts into one,Account,Medium
+654,I need a copy of my last 3 invoices for tax purposes waiting since 2 days,Billing,Medium
+655,my profile picture and username reset on their own please advise,Account,Low
+656,My invoice amount does not match what I was quoted still not fixed,Billing,Medium
+657,I cannot access my account after changing my email regards,Account,Low
+658,Login page keeps loading forever and never opens regards,Technical Issue,Low
+659,please delete my account and all my personal data please advise,Account,Low
+660,app crashed and i lost all my unsaved work please advise,Technical Issue,Low
+661,"I was charged twice for my subscription this month, please refund me production is down",Billing,High
+662,I want to cancel my subscription and get a refund soon as possible regards,Billing,Medium
+663,Video upload is stuck at 99 percent since yesterday please advise,Technical Issue,Low
+664,Getting error code 403 forbidden when accessing my project cannot work please advise,Technical Issue,High
+665,Can you explain why my bill increased this month please help,Billing,Medium
+666,Can I get a demo of the enterprise plan thanks,General Query,Low
+667,Do you have an API for third party integration,General Query,Low
+668,The export to pdf feature is broken and generates empty files right now this has been going on for a while,Technical Issue,High
+669,Just wanted to know what plans you offer for students please advise,General Query,Low
+670,I need a copy of my last 3 invoices for tax purposes still not fixed,Billing,Medium
+671,Login page keeps loading forever and never opens asap,Technical Issue,High
+672,please delete my account and all my personal data thanks,Account,Low
+673,What are your customer support working hours,General Query,Low
+674,I am getting a 500 error when I try to login to the dashboard soon as possible this has been going on for a while,Technical Issue,Medium
+675,The export to pdf feature is broken and generates empty files right now,Technical Issue,High
+676,Login page keeps loading forever and never opens still not fixed thanks,Technical Issue,Medium
+677,My invoice amount does not match what I was quoted asap this has been going on for a while,Billing,High
+678,How do I upgrade from the free plan to premium please advise,General Query,Medium
+679,The website is completely down and showing a blank page asap thanks,Technical Issue,High
+680,I forgot my password and the reset link is not working,Account,Low
+681,I need to change the email address linked to my account this has been going on for a while,Account,Medium
+682,Login page keeps loading forever and never opens urgent thanks,Technical Issue,High
+683,Where can I find your terms of service document regards,General Query,Low
+684,asking for a discount code that isnt working at checkout,Billing,Low
+685,please delete my account and all my personal data losing money please advise,Account,High
+686,The export to pdf feature is broken and generates empty files,Technical Issue,Low
+687,billing cycle date is wrong on my account critical thanks,Billing,High
+688,"I was charged twice for my subscription this month, please refund me regards",Billing,Low
+689,unable to verify my account with the otp sent regards,Account,Low
+690,Do you have an API for third party integration this has been going on for a while,General Query,Low
+691,Getting error code 403 forbidden when accessing my project asap this has been going on for a while,Technical Issue,High
+692,Video upload is stuck at 99 percent since yesterday still not fixed this has been going on for a while,Technical Issue,Medium
+693,Payment failed but the amount was still deducted from my account please help,Billing,Medium
+694,I am getting a 500 error when I try to login to the dashboard,Technical Issue,Low
+695,"loved the new update, when is the next feature release please advise",General Query,Low
+696,I am getting a 500 error when I try to login to the dashboard immediately,Technical Issue,High
+697,I want to cancel my subscription and get a refund waiting since 2 days this has been going on for a while,Billing,Medium
+698,My account got suspended without any warning email,Account,Medium
+699,I cannot access my account after changing my email,Account,Low
+700,I want to merge two accounts into one,Account,Medium
+701,"someone else might have access to my account, please help regards",Account,Medium
+702,just checking if there is a referral program regards,General Query,Low
+703,Data is not syncing between mobile app and web app asap this has been going on for a while,Technical Issue,High
+704,There is a wrong charge on my credit card from your company soon as possible,Billing,Medium
+705,There is a wrong charge on my credit card from your company cannot work regards,Billing,High
+706,Video upload is stuck at 99 percent since yesterday,Technical Issue,Low
+707,Is there a mobile app available for android users regards,General Query,Low
+708,two factor authentication code never arrives on my phone this has been going on for a while,Account,Low
+709,I cannot access my account after changing my email,Account,Medium
+710,The website is completely down and showing a blank page,Technical Issue,Low
+711,Do you have an API for third party integration please advise,General Query,Medium
+712,please delete my account and all my personal data production is down,Account,High
+713,I need to change the email address linked to my account please advise,Account,Medium
+714,The export to pdf feature is broken and generates empty files production is down thanks,Technical Issue,High
+715,Video upload is stuck at 99 percent since yesterday losing money,Technical Issue,High
+716,Server keeps timing out when i upload large files urgent please advise,Technical Issue,High
+717,I need a copy of my last 3 invoices for tax purposes,Billing,Low
+718,I cannot access my account after changing my email right now regards,Account,High
+719,Just wanted to know what plans you offer for students thanks,General Query,Medium
+720,I cannot access my account after changing my email right now this has been going on for a while,Account,High
+721,How do I upgrade from the free plan to premium,General Query,Low
+722,billing cycle date is wrong on my account immediately,Billing,High
+723,Do you have an API for third party integration,General Query,Low
+724,What are your customer support working hours please advise,General Query,Low
+725,I want to merge two accounts into one,Account,Low
+726,please delete my account and all my personal data thanks,Account,Medium
+727,There is a wrong charge on my credit card from your company asap thanks,Billing,High
+728,I want to cancel my subscription and get a refund waiting since 2 days regards,Billing,Medium
+729,asking for a discount code that isnt working at checkout right now regards,Billing,High
+730,my profile picture and username reset on their own,Account,Medium
+731,I want to cancel my subscription and get a refund please advise,Billing,Low
+732,There is a wrong charge on my credit card from your company please advise,Billing,Low
+733,I am getting a 500 error when I try to login to the dashboard waiting since 2 days regards,Technical Issue,Medium
+734,Payment failed but the amount was still deducted from my account immediately,Billing,High
+735,Do you offer bulk pricing for teams larger than 50 people this has been going on for a while,General Query,Low
+736,I am getting a 500 error when I try to login to the dashboard please help,Technical Issue,Medium
+737,"I was charged twice for my subscription this month, please refund me thanks",Billing,Low
+738,The website is completely down and showing a blank page please advise,Technical Issue,Low
+739,billing cycle date is wrong on my account soon as possible,Billing,Medium
+740,There is a wrong charge on my credit card from your company regards,Billing,Low
+741,I am getting a 500 error when I try to login to the dashboard please advise,Technical Issue,Low
+742,"I was charged twice for my subscription this month, please refund me",Billing,Low
+743,app crashed and i lost all my unsaved work still not fixed regards,Technical Issue,Medium
+744,I need a copy of my last 3 invoices for tax purposes please help please advise,Billing,Medium
+745,Video upload is stuck at 99 percent since yesterday production is down thanks,Technical Issue,High
+746,billing cycle date is wrong on my account please help,Billing,Medium
+747,my profile picture and username reset on their own this has been going on for a while,Account,Medium
+748,Just wanted to know what plans you offer for students regards,General Query,Low
+749,Login page keeps loading forever and never opens emergency thanks,Technical Issue,High
+750,I need a copy of my last 3 invoices for tax purposes please advise,Billing,Low
+751,just checking if there is a referral program please advise,General Query,Low
+752,I want to merge two accounts into one,Account,Medium
+753,"someone else might have access to my account, please help critical",Account,High
+754,just checking if there is a referral program this has been going on for a while,General Query,Low
+755,Video upload is stuck at 99 percent since yesterday right now please advise,Technical Issue,High
+756,There is a wrong charge on my credit card from your company still not fixed please advise,Billing,Medium
+757,Video upload is stuck at 99 percent since yesterday cannot work,Technical Issue,High
+758,"someone else might have access to my account, please help cannot work this has been going on for a while",Account,High
+759,app crashed and i lost all my unsaved work regards,Technical Issue,Low
+760,My account got suspended without any warning email,Account,Medium
+761,There is a wrong charge on my credit card from your company soon as possible this has been going on for a while,Billing,Medium
+762,Just wanted to know what plans you offer for students this has been going on for a while,General Query,Low
+763,Video upload is stuck at 99 percent since yesterday immediately please advise,Technical Issue,High
+764,"I was charged twice for my subscription this month, please refund me immediately",Billing,High
+765,I cannot access my account after changing my email,Account,Medium
+766,"loved the new update, when is the next feature release please advise",General Query,Low
+767,My account got suspended without any warning email,Account,Low
+768,Do you offer bulk pricing for teams larger than 50 people thanks,General Query,Low
+769,I need to change the email address linked to my account thanks,Account,Low
+770,Can I get a demo of the enterprise plan please advise,General Query,Low
+771,Video upload is stuck at 99 percent since yesterday annoying regards,Technical Issue,Medium
+772,I want to cancel my subscription and get a refund annoying thanks,Billing,Medium
+773,Auto renewal charged me even after I cancelled the plan asap thanks,Billing,High
+774,please delete my account and all my personal data asap,Account,High
+775,my profile picture and username reset on their own right now thanks,Account,High
+776,Can you explain why my bill increased this month asap,Billing,High
+777,"I was charged twice for my subscription this month, please refund me losing money thanks",Billing,High
+778,Do you offer bulk pricing for teams larger than 50 people please advise,General Query,Medium
+779,Do you have an API for third party integration this has been going on for a while,General Query,Low
+780,Video upload is stuck at 99 percent since yesterday soon as possible please advise,Technical Issue,Medium
+781,Can you explain why my bill increased this month asap,Billing,High
+782,My account got suspended without any warning email thanks,Account,Low
+783,asking for a discount code that isnt working at checkout,Billing,Low
+784,"someone else might have access to my account, please help regards",Account,Low
+785,I need a copy of my last 3 invoices for tax purposes thanks,Billing,Low
+786,What are your customer support working hours please advise,General Query,Low
+787,The website is completely down and showing a blank page annoying,Technical Issue,Medium
+788,two factor authentication code never arrives on my phone,Account,Medium
+789,I need a copy of my last 3 invoices for tax purposes still not fixed thanks,Billing,Medium
+790,Can you explain why my bill increased this month asap please advise,Billing,High
+791,Is there a mobile app available for android users thanks,General Query,Low
+792,Getting error code 403 forbidden when accessing my project regards,Technical Issue,Low
+793,Payment failed but the amount was still deducted from my account regards,Billing,Low
+794,Can I get a demo of the enterprise plan this has been going on for a while,General Query,Low
+795,What are your customer support working hours regards,General Query,Low
+796,My account got suspended without any warning email please advise,Account,Medium
+797,Do you offer bulk pricing for teams larger than 50 people please advise,General Query,Low
+798,I want to cancel my subscription and get a refund,Billing,Low
+799,My invoice amount does not match what I was quoted annoying regards,Billing,Medium
+800,Server keeps timing out when i upload large files losing money this has been going on for a while,Technical Issue,High
+801,just checking if there is a referral program regards,General Query,Low
+802,The export to pdf feature is broken and generates empty files losing money,Technical Issue,High
+803,asking for a discount code that isnt working at checkout annoying this has been going on for a while,Billing,Medium
+804,I am getting a 500 error when I try to login to the dashboard regards,Technical Issue,Low
+805,Video upload is stuck at 99 percent since yesterday thanks,Technical Issue,Low
+806,The app keeps crashing every time I try to open it still not fixed thanks,Technical Issue,Medium
+807,app crashed and i lost all my unsaved work asap,Technical Issue,High
+808,just checking if there is a referral program please advise,General Query,Low
+809,unable to verify my account with the otp sent,Account,Medium
+810,Do you have an API for third party integration thanks,General Query,Low
+811,My invoice amount does not match what I was quoted soon as possible please advise,Billing,Medium
+812,I want to merge two accounts into one,Account,Medium
+813,"loved the new update, when is the next feature release",General Query,Low
+814,Getting error code 403 forbidden when accessing my project annoying this has been going on for a while,Technical Issue,Medium
+815,Just wanted to know what plans you offer for students please advise,General Query,Low
+816,The app keeps crashing every time I try to open it waiting since 2 days please advise,Technical Issue,Medium
+817,Can you explain why my bill increased this month please advise,Billing,Low
+818,two factor authentication code never arrives on my phone,Account,Low
+819,There is a wrong charge on my credit card from your company production is down please advise,Billing,High
+820,I want to merge two accounts into one,Account,Medium
+821,The export to pdf feature is broken and generates empty files losing money,Technical Issue,High
+822,just checking if there is a referral program,General Query,Medium
+823,I am getting a 500 error when I try to login to the dashboard emergency regards,Technical Issue,High
+824,Server keeps timing out when i upload large files,Technical Issue,Low
+825,The website is completely down and showing a blank page thanks,Technical Issue,Low
+826,There is a wrong charge on my credit card from your company urgent please advise,Billing,High
+827,Getting error code 403 forbidden when accessing my project production is down this has been going on for a while,Technical Issue,High
+828,Do you have an API for third party integration thanks,General Query,Low
+829,my profile picture and username reset on their own thanks,Account,Medium
+830,"loved the new update, when is the next feature release please advise",General Query,Low
+831,Getting error code 403 forbidden when accessing my project soon as possible please advise,Technical Issue,Medium
+832,I need a copy of my last 3 invoices for tax purposes right now thanks,Billing,High
+833,The website is completely down and showing a blank page losing money this has been going on for a while,Technical Issue,High
+834,"I was charged twice for my subscription this month, please refund me please help",Billing,Medium
+835,app crashed and i lost all my unsaved work thanks,Technical Issue,Low
+836,"someone else might have access to my account, please help please advise",Account,Low
+837,I want to merge two accounts into one please advise,Account,Low
+838,Can I get a demo of the enterprise plan please advise,General Query,Low
+839,"loved the new update, when is the next feature release this has been going on for a while",General Query,Low
+840,unable to verify my account with the otp sent this has been going on for a while,Account,Medium
+841,two factor authentication code never arrives on my phone regards,Account,Low
+842,Can you explain why my bill increased this month,Billing,Low
+843,two factor authentication code never arrives on my phone,Account,Medium
+844,I need to change the email address linked to my account right now,Account,High
+845,How do I upgrade from the free plan to premium,General Query,Low
+846,Auto renewal charged me even after I cancelled the plan please advise,Billing,Low
+847,Where can I find your terms of service document,General Query,Low
+848,Data is not syncing between mobile app and web app please help,Technical Issue,Medium
+849,How do I upgrade from the free plan to premium thanks,General Query,Low
+850,Getting error code 403 forbidden when accessing my project immediately,Technical Issue,High
+851,unable to verify my account with the otp sent thanks,Account,Low
+852,I cannot access my account after changing my email right now,Account,High
+853,I want to merge two accounts into one please advise,Account,Low
+854,two factor authentication code never arrives on my phone regards,Account,Medium
+855,Auto renewal charged me even after I cancelled the plan asap regards,Billing,High
+856,Server keeps timing out when i upload large files losing money this has been going on for a while,Technical Issue,High
+857,I want to merge two accounts into one immediately thanks,Account,High
+858,Data is not syncing between mobile app and web app annoying regards,Technical Issue,Medium
+859,Data is not syncing between mobile app and web app thanks,Technical Issue,Low
+860,Auto renewal charged me even after I cancelled the plan immediately please advise,Billing,High
+861,"I was charged twice for my subscription this month, please refund me please help thanks",Billing,Medium
+862,The export to pdf feature is broken and generates empty files,Technical Issue,Low
+863,app crashed and i lost all my unsaved work still not fixed regards,Technical Issue,Medium
+864,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+865,Data is not syncing between mobile app and web app please advise,Technical Issue,Low
+866,The app keeps crashing every time I try to open it please help thanks,Technical Issue,Medium
+867,two factor authentication code never arrives on my phone losing money this has been going on for a while,Account,High
+868,My account got suspended without any warning email urgent please advise,Account,High
+869,my profile picture and username reset on their own this has been going on for a while,Account,Low
+870,I want to merge two accounts into one thanks,Account,Low
+871,my profile picture and username reset on their own thanks,Account,Medium
+872,Login page keeps loading forever and never opens right now,Technical Issue,High
+873,The website is completely down and showing a blank page annoying this has been going on for a while,Technical Issue,Medium
+874,I am getting a 500 error when I try to login to the dashboard urgent regards,Technical Issue,High
+875,unable to verify my account with the otp sent this has been going on for a while,Account,Medium
+876,My invoice amount does not match what I was quoted soon as possible,Billing,Medium
+877,I need a copy of my last 3 invoices for tax purposes soon as possible this has been going on for a while,Billing,Medium
+878,my profile picture and username reset on their own thanks,Account,Low
+879,Payment failed but the amount was still deducted from my account soon as possible,Billing,Medium
+880,"someone else might have access to my account, please help thanks",Account,Medium
+881,Do you have an API for third party integration this has been going on for a while,General Query,Low
+882,Payment failed but the amount was still deducted from my account asap regards,Billing,High
+883,app crashed and i lost all my unsaved work critical this has been going on for a while,Technical Issue,High
+884,Data is not syncing between mobile app and web app waiting since 2 days thanks,Technical Issue,Medium
+885,asking for a discount code that isnt working at checkout please help,Billing,Medium
+886,How do I upgrade from the free plan to premium,General Query,Low
+887,My invoice amount does not match what I was quoted,Billing,Low
+888,What are your customer support working hours this has been going on for a while,General Query,Medium
+889,My invoice amount does not match what I was quoted,Billing,Low
+890,The export to pdf feature is broken and generates empty files please advise,Technical Issue,Low
+891,my profile picture and username reset on their own immediately,Account,High
+892,please delete my account and all my personal data please advise,Account,Low
+893,Do you have an API for third party integration,General Query,Low
+894,I want to cancel my subscription and get a refund please help please advise,Billing,Medium
+895,my profile picture and username reset on their own please advise,Account,Low
+896,Can you explain why my bill increased this month thanks,Billing,Low
+897,I need a copy of my last 3 invoices for tax purposes still not fixed please advise,Billing,Medium
+898,Do you offer bulk pricing for teams larger than 50 people,General Query,Low
+899,I am getting a 500 error when I try to login to the dashboard urgent thanks,Technical Issue,High
+900,I need a copy of my last 3 invoices for tax purposes regards,Billing,Low
